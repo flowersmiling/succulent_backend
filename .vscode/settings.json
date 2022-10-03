@@ -2,5 +2,9 @@
   "files.associations": {
     "*.ejs": "html",
     "types.h": "c"
-  }
+  },
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ]
 }
